@@ -6,10 +6,12 @@
     </a>
 </div>
 
-## About Me:
+## Personal stuff:
 I am a junior software developer developing my knowledge of programming skills & languages.
-- I am a First-Class Honours graduate from Staffordshire University, with a strong focus on pursuing a career in Software Engineering. 
-- My journey into this field has been marked by notable achievements, including excelling in Harvard’s CS50 courses, and achieving a remarkable 97% performance in the HyperionDev bootcamp.
+
+- 🎓 First-Class Staffordshire University Graduate.
+- ☑️ Certified completion of Harvard's CS50P & CS50X.
+- 🚀 HyperionDev x CoGrammar DfE graduate with with 98%.
 
 ## My Projects:
 🎤 **LyricLore**: Full-stack web application using *Flask* as backend framework, *JS*, *HTML*, & *CSS* for frontend, and *SQLite3* for database management. Multiple APIs are integrated into LyricLore to provide greater user experience. <a href="https://github.com/JoshHofer01/LyricLore/blob/main/README.md">Read more!</a>
