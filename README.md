@@ -16,11 +16,9 @@ I am a junior software developer developing my knowledge of programming skills &
 ## My Projects:
 🎤 **LyricLore**: Full-stack web application using *Flask* as backend framework, *JS*, *HTML*, & *CSS* for frontend, and *SQLite3* for database management. Multiple APIs are integrated into LyricLore to provide greater user experience. <a href="https://github.com/JoshHofer01/LyricLore/blob/main/README.md">Read more!</a>
 
-📰 **RedundantCSS**: Python package that analyzes a stylesheet and identifies redundant CSS classes not used by the templates provided. View on <a href="https://pypi.org/project/redundantcss/">PyPi</a>.
+📰 **StyleMapper**: This command line program analyzes CSS & HTML files based on the arguments you run stylemapper with. StyleMapper makes tracking selectors and styles easier for web developers. View on <a href="https://pypi.org/project/stylemapper/">PyPi</a>.
 
 🖥️ **CLI Task Manager**: CLI Task Manager developed in *Python*, emphasizing file I/O functionality. Simplifies task organization and management with efficient data handling.
-
-🏀 **NBA Showdown**
 
 ---
 
